@@ -1,6 +1,6 @@
 {
     "homepage": "https://github.com/acdzh/winutils",
-    "description": "A console timer to get program running time.",
+    "description": "A console timer to get program running time, and it can stop when run over.",
     "version": "2019.11.07.161212",
     "license": "WTFPL",
     "url": "https://raw.githubusercontent.com/acdzh/winutils/8fb9cc5bb89afa61ab3d3cb3d0cbb1d7a4df8b3d/ConsolePauser/ConsolePauser.exe",
