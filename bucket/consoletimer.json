@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/acdzh/winutils",
     "description": "A console timer to get program running time.",
-    "version": "2019.11.07.161212",
+    "version": "2019.11.07.181706",
     "license": "WTFPL",
-    "url": "https://raw.githubusercontent.com/acdzh/winutils/8fb9cc5bb89afa61ab3d3cb3d0cbb1d7a4df8b3d/ConsoleTimer/ConsoleTimer.exe",
+    "url": "https://raw.githubusercontent.com/acdzh/winutils/9b8e7bd0d4fc244ee63a292b2c804ea83219e7d5/ConsoleTimer/ConsoleTimer.exe",
     "hash": "969a98a705a7f88d5068992ec973a04dcafbf36374dfcefdd40500555fbbd805",
     "bin": "ConsoleTimer.exe",
     "checkver": {
