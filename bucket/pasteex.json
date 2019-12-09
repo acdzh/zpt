@@ -23,6 +23,6 @@
         "url": "https://github.com/huiyadanli/PasteEx/releases/download/$version/PasteEx.v$version.zip#/dl.7z"
     },
     "notes": [
-        "Please open app for initialization. / 请手动打开应用进行初始化。"
+        "Please open app for initialization."
     ]
 }
