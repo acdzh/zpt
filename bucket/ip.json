@@ -1,11 +1,11 @@
 {
     "homepage": "https://github.com/acdzh/winutils",
     "description": "Get ip address fastly.",
-    "version": "2019.11.07.182643",
+    "version": "2020.02.13.083911",
     "license": "WTFPL",
-    "url": "https://raw.githubusercontent.com/acdzh/winutils/5c4067047ed07054c08ae0067319d822f441e114/ip.ps1",
-    "hash": "83006e78f61d67f9f12c13e686d6ff8b9d7ca536b407ceec75940e13496cf5e5",
-    "bin": "ConsolePauser.exe",
+    "url": "https://raw.githubusercontent.com/acdzh/winutils/b475e62eca3b2542178cb45d355ce0278ed93567/ip.ps1",
+    "hash": "200ceac1949471d62a7b493ebfb981ed7364fe0ddeb59bc68f9774a33341564f",
+    "bin": "ip.ps1",
     "checkver": {
         "url": "https://github.com/acdzh/winutils",
         "re": "ip\\.ps1[\\S\\s]*?/(?<sha>[0-9a-f]{40})[\\S\\s]*?(\\d+)-(\\d+)-(\\d+)T(\\d+):(\\d+):(\\d+)Z",
