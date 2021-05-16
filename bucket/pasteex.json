@@ -9,9 +9,7 @@
     "url": "https://github.com/huiyadanli/PasteEx/releases/download/1.1.8.1/PasteEx.v1.1.8.1.zip#/dl.7z",
     "hash": "b3146a7ca1660c6d2dca864a928bb8fa0f01915e72fd972fbe1ca11ff60d27c9",
     "bin": "PasteEx\\PasteEx.exe",
-    "persist": [
-        "PasteEx\\User"
-    ],
+    "persist": "PasteEx\\User",
     "shortcuts": [
         [
             "PasteEx\\PasteEx.exe",
@@ -22,7 +20,5 @@
     "autoupdate": {
         "url": "https://github.com/huiyadanli/PasteEx/releases/download/$version/PasteEx.v$version.zip#/dl.7z"
     },
-    "notes": [
-        "Please open app for initialization."
-    ]
+    "notes": "Please open app for initialization."
 }
