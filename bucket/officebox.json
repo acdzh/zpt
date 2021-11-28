@@ -1,13 +1,13 @@
 {
     "homepage": "http://www.wofficebox.com/",
     "description": "Wan cai office tools set.",
-    "version": "3.0.6",
+    "version": "3.1.0",
     "license": {
         "identifier": "EULA",
         "url": "http://www.wofficebox.com/terms-of-service.html"
     },
     "url": "http://files.wofficebox.com/officebox/download/OfficeBox%E5%AE%98%E6%96%B9%E7%BB%BF%E8%89%B2%E7%89%88.zip#/dl.7z",
-    "hash": "3058d34c2553fca1f46234acc8acecf4578cc73d65626055e536c2085e96acc2",
+    "hash": "51f96c4a5123245a50efce9ab71b0063bf9e9708ee32b0c35a348119ae9e07ad",
     "bin": "Officebox.exe",
     "shortcuts": [
         [
