@@ -26,6 +26,10 @@
                 [
                     "Bonzomatic_W64_GLFW.exe",
                     "Bonzomatic_W64_GLFW"
+                ],
+                [
+                    "config.json",
+                    "Bonzomatic Config"
                 ]
             ]
         },
@@ -49,6 +53,10 @@
                 [
                     "Bonzomatic_W32_GLFW.exe",
                     "Bonzomatic_W32_GLFW"
+                ],
+                [
+                    "config.json",
+                    "Bonzomatic Config"
                 ]
             ]
         }
@@ -67,6 +75,5 @@
                 "url": "https://github.com/Gargaj/Bonzomatic/releases/download/$version/Bonzomatic_W32_$version.zip#/dl.7z"
             }
         }
-    },
-    "notes": "Please open app for initialization."
+    }
 }
