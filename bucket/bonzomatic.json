@@ -61,7 +61,10 @@
             ]
         }
     },
-    "persist": "config.json",
+    "persist": [
+        "config.json",
+        "User"
+    ],
     "checkver": {
         "github": "https://github.com/Gargaj/Bonzomatic",
         "regex": "Bonzomatic_W64_([\\d|-]+).zip"
